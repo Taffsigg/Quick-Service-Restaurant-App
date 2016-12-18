@@ -1,0 +1,10 @@
+.devsibg{
+	background-color: #3c8dbc;
+	color: #fff;
+}
+
+.br{
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+}
